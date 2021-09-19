@@ -1,0 +1,11 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:saving/ui/widgets/theme.dart';
+import 'package:saving/ui/widgets/widgets.dart';
+import 'package:get/get.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+part 'home_page.dart';
+part 'splashscreen_page.dart';
+part 'login_page.dart';
+part 'sign_up_page.dart';
